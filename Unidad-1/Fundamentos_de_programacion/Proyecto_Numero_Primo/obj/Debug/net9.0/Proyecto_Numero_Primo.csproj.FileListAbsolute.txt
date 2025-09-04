@@ -1,0 +1,15 @@
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Numero_Primo\bin\Debug\net9.0\Proyecto_Numero_Primo.exe
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Numero_Primo\bin\Debug\net9.0\Proyecto_Numero_Primo.deps.json
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Numero_Primo\bin\Debug\net9.0\Proyecto_Numero_Primo.runtimeconfig.json
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Numero_Primo\bin\Debug\net9.0\Proyecto_Numero_Primo.dll
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Numero_Primo\bin\Debug\net9.0\Proyecto_Numero_Primo.pdb
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Numero_Primo\obj\Debug\net9.0\Proyecto_Numero_Primo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Numero_Primo\obj\Debug\net9.0\Proyecto_Numero_Primo.AssemblyInfoInputs.cache
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Numero_Primo\obj\Debug\net9.0\Proyecto_Numero_Primo.AssemblyInfo.cs
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Numero_Primo\obj\Debug\net9.0\Proyecto_Numero_Primo.csproj.CoreCompileInputs.cache
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Numero_Primo\obj\Debug\net9.0\Proyecto_Numero_Primo.sourcelink.json
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Numero_Primo\obj\Debug\net9.0\Proyecto_Numero_Primo.dll
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Numero_Primo\obj\Debug\net9.0\refint\Proyecto_Numero_Primo.dll
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Numero_Primo\obj\Debug\net9.0\Proyecto_Numero_Primo.pdb
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Numero_Primo\obj\Debug\net9.0\Proyecto_Numero_Primo.genruntimeconfig.cache
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Numero_Primo\obj\Debug\net9.0\ref\Proyecto_Numero_Primo.dll
