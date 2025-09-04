@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto_Area_Circulo", "Proyecto_Area_Circulo\Proyecto_Area_Circulo.csproj", "{17D6FDF4-15D0-4D25-84F9-8548B36247BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto_Celsius_Farenheit", "Proyecto_Celsius_Farenheit\Proyecto_Celsius_Farenheit.csproj", "{B87ACE9A-EE83-480A-A2BF-00D93A302807}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17D6FDF4-15D0-4D25-84F9-8548B36247BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17D6FDF4-15D0-4D25-84F9-8548B36247BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17D6FDF4-15D0-4D25-84F9-8548B36247BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17D6FDF4-15D0-4D25-84F9-8548B36247BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B87ACE9A-EE83-480A-A2BF-00D93A302807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B87ACE9A-EE83-480A-A2BF-00D93A302807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B87ACE9A-EE83-480A-A2BF-00D93A302807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B87ACE9A-EE83-480A-A2BF-00D93A302807}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
