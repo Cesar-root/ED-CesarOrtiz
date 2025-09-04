@@ -1,0 +1,15 @@
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Area_Circulo\bin\Debug\net9.0\Proyecto_Area_Circulo.exe
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Area_Circulo\bin\Debug\net9.0\Proyecto_Area_Circulo.deps.json
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Area_Circulo\bin\Debug\net9.0\Proyecto_Area_Circulo.runtimeconfig.json
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Area_Circulo\bin\Debug\net9.0\Proyecto_Area_Circulo.dll
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Area_Circulo\bin\Debug\net9.0\Proyecto_Area_Circulo.pdb
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Area_Circulo\obj\Debug\net9.0\Proyecto_Area_Circulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Area_Circulo\obj\Debug\net9.0\Proyecto_Area_Circulo.AssemblyInfoInputs.cache
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Area_Circulo\obj\Debug\net9.0\Proyecto_Area_Circulo.AssemblyInfo.cs
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Area_Circulo\obj\Debug\net9.0\Proyecto_Area_Circulo.csproj.CoreCompileInputs.cache
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Area_Circulo\obj\Debug\net9.0\Proyecto_Area_Circulo.sourcelink.json
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Area_Circulo\obj\Debug\net9.0\Proyecto_Area_Circulo.dll
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Area_Circulo\obj\Debug\net9.0\refint\Proyecto_Area_Circulo.dll
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Area_Circulo\obj\Debug\net9.0\Proyecto_Area_Circulo.pdb
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Area_Circulo\obj\Debug\net9.0\Proyecto_Area_Circulo.genruntimeconfig.cache
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Area_Circulo\obj\Debug\net9.0\ref\Proyecto_Area_Circulo.dll
