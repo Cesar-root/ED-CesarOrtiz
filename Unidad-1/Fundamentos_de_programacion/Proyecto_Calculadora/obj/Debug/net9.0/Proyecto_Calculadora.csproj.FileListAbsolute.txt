@@ -1,0 +1,15 @@
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Calculadora\obj\Debug\net9.0\Proyecto_Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Calculadora\obj\Debug\net9.0\Proyecto_Calculadora.AssemblyInfoInputs.cache
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Calculadora\obj\Debug\net9.0\Proyecto_Calculadora.AssemblyInfo.cs
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Calculadora\obj\Debug\net9.0\Proyecto_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Calculadora\obj\Debug\net9.0\Proyecto_Calculadora.sourcelink.json
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Calculadora\bin\Debug\net9.0\Proyecto_Calculadora.exe
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Calculadora\bin\Debug\net9.0\Proyecto_Calculadora.deps.json
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Calculadora\bin\Debug\net9.0\Proyecto_Calculadora.runtimeconfig.json
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Calculadora\bin\Debug\net9.0\Proyecto_Calculadora.dll
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Calculadora\bin\Debug\net9.0\Proyecto_Calculadora.pdb
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Calculadora\obj\Debug\net9.0\Proyecto_Calculadora.dll
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Calculadora\obj\Debug\net9.0\refint\Proyecto_Calculadora.dll
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Calculadora\obj\Debug\net9.0\Proyecto_Calculadora.pdb
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Calculadora\obj\Debug\net9.0\Proyecto_Calculadora.genruntimeconfig.cache
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Calculadora\obj\Debug\net9.0\ref\Proyecto_Calculadora.dll

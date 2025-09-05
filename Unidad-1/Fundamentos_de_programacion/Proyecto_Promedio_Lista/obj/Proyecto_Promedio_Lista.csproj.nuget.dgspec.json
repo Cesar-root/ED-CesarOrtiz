@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\15ago\\documents\\ED-CesarOrtiz\\Unidad-1\\Fundamentos_de_programacion\\Proyecto_Promedio_Lista\\Proyecto_Promedio_Lista.csproj": {}
+    "C:\\Users\\15ago\\Documents\\ED-CesarOrtiz\\Unidad-1\\Fundamentos_de_programacion\\Proyecto_Promedio_Lista\\Proyecto_Promedio_Lista.csproj": {}
   },
   "projects": {
-    "C:\\Users\\15ago\\documents\\ED-CesarOrtiz\\Unidad-1\\Fundamentos_de_programacion\\Proyecto_Promedio_Lista\\Proyecto_Promedio_Lista.csproj": {
+    "C:\\Users\\15ago\\Documents\\ED-CesarOrtiz\\Unidad-1\\Fundamentos_de_programacion\\Proyecto_Promedio_Lista\\Proyecto_Promedio_Lista.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\15ago\\documents\\ED-CesarOrtiz\\Unidad-1\\Fundamentos_de_programacion\\Proyecto_Promedio_Lista\\Proyecto_Promedio_Lista.csproj",
+        "projectUniqueName": "C:\\Users\\15ago\\Documents\\ED-CesarOrtiz\\Unidad-1\\Fundamentos_de_programacion\\Proyecto_Promedio_Lista\\Proyecto_Promedio_Lista.csproj",
         "projectName": "Proyecto_Promedio_Lista",
-        "projectPath": "C:\\Users\\15ago\\documents\\ED-CesarOrtiz\\Unidad-1\\Fundamentos_de_programacion\\Proyecto_Promedio_Lista\\Proyecto_Promedio_Lista.csproj",
+        "projectPath": "C:\\Users\\15ago\\Documents\\ED-CesarOrtiz\\Unidad-1\\Fundamentos_de_programacion\\Proyecto_Promedio_Lista\\Proyecto_Promedio_Lista.csproj",
         "packagesPath": "C:\\Users\\15ago\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\15ago\\documents\\ED-CesarOrtiz\\Unidad-1\\Fundamentos_de_programacion\\Proyecto_Promedio_Lista\\obj\\",
+        "outputPath": "C:\\Users\\15ago\\Documents\\ED-CesarOrtiz\\Unidad-1\\Fundamentos_de_programacion\\Proyecto_Promedio_Lista\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\15ago\\AppData\\Roaming\\NuGet\\NuGet.Config"

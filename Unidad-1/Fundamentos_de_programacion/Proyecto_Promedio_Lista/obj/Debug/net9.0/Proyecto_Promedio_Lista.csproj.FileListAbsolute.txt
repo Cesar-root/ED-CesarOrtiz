@@ -1,0 +1,15 @@
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Promedio_Lista\bin\Debug\net9.0\Proyecto_Promedio_Lista.exe
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Promedio_Lista\bin\Debug\net9.0\Proyecto_Promedio_Lista.deps.json
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Promedio_Lista\bin\Debug\net9.0\Proyecto_Promedio_Lista.runtimeconfig.json
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Promedio_Lista\bin\Debug\net9.0\Proyecto_Promedio_Lista.dll
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Promedio_Lista\bin\Debug\net9.0\Proyecto_Promedio_Lista.pdb
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Promedio_Lista\obj\Debug\net9.0\Proyecto_Promedio_Lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Promedio_Lista\obj\Debug\net9.0\Proyecto_Promedio_Lista.AssemblyInfoInputs.cache
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Promedio_Lista\obj\Debug\net9.0\Proyecto_Promedio_Lista.AssemblyInfo.cs
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Promedio_Lista\obj\Debug\net9.0\Proyecto_Promedio_Lista.csproj.CoreCompileInputs.cache
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Promedio_Lista\obj\Debug\net9.0\Proyecto_Promedio_Lista.sourcelink.json
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Promedio_Lista\obj\Debug\net9.0\Proyecto_Promedio_Lista.dll
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Promedio_Lista\obj\Debug\net9.0\refint\Proyecto_Promedio_Lista.dll
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Promedio_Lista\obj\Debug\net9.0\Proyecto_Promedio_Lista.pdb
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Promedio_Lista\obj\Debug\net9.0\Proyecto_Promedio_Lista.genruntimeconfig.cache
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Promedio_Lista\obj\Debug\net9.0\ref\Proyecto_Promedio_Lista.dll

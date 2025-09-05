@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Proyecto_Promedio_Lista/1.0.0": {
+        "runtime": {
+          "Proyecto_Promedio_Lista.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Proyecto_Promedio_Lista/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
