@@ -1,0 +1,15 @@
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Libro\bin\Debug\net9.0\Proyecto_Libro.exe
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Libro\bin\Debug\net9.0\Proyecto_Libro.deps.json
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Libro\bin\Debug\net9.0\Proyecto_Libro.runtimeconfig.json
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Libro\bin\Debug\net9.0\Proyecto_Libro.dll
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Libro\bin\Debug\net9.0\Proyecto_Libro.pdb
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Libro\obj\Debug\net9.0\Proyecto_Libro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Libro\obj\Debug\net9.0\Proyecto_Libro.AssemblyInfoInputs.cache
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Libro\obj\Debug\net9.0\Proyecto_Libro.AssemblyInfo.cs
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Libro\obj\Debug\net9.0\Proyecto_Libro.csproj.CoreCompileInputs.cache
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Libro\obj\Debug\net9.0\Proyecto_Libro.sourcelink.json
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Libro\obj\Debug\net9.0\Proyecto_Libro.dll
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Libro\obj\Debug\net9.0\refint\Proyecto_Libro.dll
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Libro\obj\Debug\net9.0\Proyecto_Libro.pdb
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Libro\obj\Debug\net9.0\Proyecto_Libro.genruntimeconfig.cache
+C:\Users\15ago\Documents\ED-CesarOrtiz\Unidad-1\Fundamentos_de_programacion\Proyecto_Libro\obj\Debug\net9.0\ref\Proyecto_Libro.dll
