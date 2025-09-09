@@ -1,0 +1,7 @@
+C:\Users\15ago\source\repos\Diagnostico 2\Diagnostico 2\bin\Debug\Diagnostico 2.exe.config
+C:\Users\15ago\source\repos\Diagnostico 2\Diagnostico 2\bin\Debug\Diagnostico 2.exe
+C:\Users\15ago\source\repos\Diagnostico 2\Diagnostico 2\bin\Debug\Diagnostico 2.pdb
+C:\Users\15ago\source\repos\Diagnostico 2\Diagnostico 2\obj\Debug\Diagnostico 2.csproj.AssemblyReference.cache
+C:\Users\15ago\source\repos\Diagnostico 2\Diagnostico 2\obj\Debug\Diagnostico 2.csproj.CoreCompileInputs.cache
+C:\Users\15ago\source\repos\Diagnostico 2\Diagnostico 2\obj\Debug\Diagnostico 2.exe
+C:\Users\15ago\source\repos\Diagnostico 2\Diagnostico 2\obj\Debug\Diagnostico 2.pdb
