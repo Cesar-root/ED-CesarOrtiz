@@ -1,0 +1,7 @@
+C:\Users\15ago\source\repos\Metodos de Busqueda\Metodos de Busqueda\bin\Debug\Metodos de Busqueda.exe.config
+C:\Users\15ago\source\repos\Metodos de Busqueda\Metodos de Busqueda\bin\Debug\Metodos de Busqueda.exe
+C:\Users\15ago\source\repos\Metodos de Busqueda\Metodos de Busqueda\bin\Debug\Metodos de Busqueda.pdb
+C:\Users\15ago\source\repos\Metodos de Busqueda\Metodos de Busqueda\obj\Debug\Metodos de Busqueda.csproj.AssemblyReference.cache
+C:\Users\15ago\source\repos\Metodos de Busqueda\Metodos de Busqueda\obj\Debug\Metodos de Busqueda.csproj.CoreCompileInputs.cache
+C:\Users\15ago\source\repos\Metodos de Busqueda\Metodos de Busqueda\obj\Debug\Metodos de Busqueda.exe
+C:\Users\15ago\source\repos\Metodos de Busqueda\Metodos de Busqueda\obj\Debug\Metodos de Busqueda.pdb

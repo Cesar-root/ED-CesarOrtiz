@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\15ago\\Documents\\ED-CesarOrtiz\\Unidad-1\\Fundamentos_de_programacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{533FD4CD-3E47-41AF-8A52-FC30E7308557}|Proyecto_Clase_Coche\\Proyecto_Clase_Coche.csproj|c:\\users\\15ago\\documents\\ed-cesarortiz\\unidad-1\\fundamentos_de_programacion\\proyecto_clase_coche\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533FD4CD-3E47-41AF-8A52-FC30E7308557}|Proyecto_Clase_Coche\\Proyecto_Clase_Coche.csproj|solutionrelative:proyecto_clase_coche\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533FD4CD-3E47-41AF-8A52-FC30E7308557}|Proyecto_Clase_Coche\\Proyecto_Clase_Coche.csproj|c:\\users\\15ago\\documents\\ed-cesarortiz\\unidad-1\\fundamentos_de_programacion\\proyecto_clase_coche\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533FD4CD-3E47-41AF-8A52-FC30E7308557}|Proyecto_Clase_Coche\\Proyecto_Clase_Coche.csproj|solutionrelative:proyecto_clase_coche\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533FD4CD-3E47-41AF-8A52-FC30E7308557}|Proyecto_Clase_Coche\\Proyecto_Clase_Coche.csproj|c:\\users\\15ago\\documents\\ed-cesarortiz\\unidad-1\\fundamentos_de_programacion\\proyecto_clase_coche\\proyecto_clase_coche.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{533FD4CD-3E47-41AF-8A52-FC30E7308557}|Proyecto_Clase_Coche\\Proyecto_Clase_Coche.csproj|solutionrelative:proyecto_clase_coche\\proyecto_clase_coche.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1943C359-2447-4F37-995D-7DE490578312}|Proyecto_Libro\\Proyecto_Libro.csproj|c:\\users\\15ago\\documents\\ed-cesarortiz\\unidad-1\\fundamentos_de_programacion\\proyecto_libro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1943C359-2447-4F37-995D-7DE490578312}|Proyecto_Libro\\Proyecto_Libro.csproj|solutionrelative:proyecto_libro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1943C359-2447-4F37-995D-7DE490578312}|Proyecto_Libro\\Proyecto_Libro.csproj|c:\\users\\15ago\\documents\\ed-cesarortiz\\unidad-1\\fundamentos_de_programacion\\proyecto_libro\\coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1943C359-2447-4F37-995D-7DE490578312}|Proyecto_Libro\\Proyecto_Libro.csproj|solutionrelative:proyecto_libro\\coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E51DC910-280A-4E93-9FFE-34B82B7ED8D0}|Proyecto_Promedio_Lista\\Proyecto_Promedio_Lista.csproj|c:\\users\\15ago\\documents\\ed-cesarortiz\\unidad-1\\fundamentos_de_programacion\\proyecto_promedio_lista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E51DC910-280A-4E93-9FFE-34B82B7ED8D0}|Proyecto_Promedio_Lista\\Proyecto_Promedio_Lista.csproj|solutionrelative:proyecto_promedio_lista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D019641-1251-4FD5-B691-A45B9230401A}|Proyecto_Calculadora\\Proyecto_Calculadora.csproj|c:\\users\\15ago\\documents\\ed-cesarortiz\\unidad-1\\fundamentos_de_programacion\\proyecto_calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D019641-1251-4FD5-B691-A45B9230401A}|Proyecto_Calculadora\\Proyecto_Calculadora.csproj|solutionrelative:proyecto_calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D6FDF4-15D0-4D25-84F9-8548B36247BD}|Proyecto_Area_Circulo\\Proyecto_Area_Circulo.csproj|c:\\users\\15ago\\documents\\ed-cesarortiz\\unidad-1\\fundamentos_de_programacion\\proyecto_area_circulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17D6FDF4-15D0-4D25-84F9-8548B36247BD}|Proyecto_Area_Circulo\\Proyecto_Area_Circulo.csproj|solutionrelative:proyecto_area_circulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\15ago\\Documents\\ED-CesarOrtiz\\Unidad-1\\Fundamentos_de_programacion\\Proyecto_Devolver_Impar\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proyecto_Devolver_Impar\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D57DAA8-9EDE-46CA-82A6-6601E90F7619}|Proyecto_Numero_Primo\\Proyecto_Numero_Primo.csproj|c:\\users\\15ago\\documents\\ed-cesarortiz\\unidad-1\\fundamentos_de_programacion\\proyecto_numero_primo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D57DAA8-9EDE-46CA-82A6-6601E90F7619}|Proyecto_Numero_Primo\\Proyecto_Numero_Primo.csproj|solutionrelative:proyecto_numero_primo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F3A032-6571-466A-831A-476C274D3EF2}|Proyecto_Numero_Aleatorio\\Proyecto_Numero_Aleatorio.csproj|c:\\users\\15ago\\documents\\ed-cesarortiz\\unidad-1\\fundamentos_de_programacion\\proyecto_numero_aleatorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F3A032-6571-466A-831A-476C274D3EF2}|Proyecto_Numero_Aleatorio\\Proyecto_Numero_Aleatorio.csproj|solutionrelative:proyecto_numero_aleatorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87ACE9A-EE83-480A-A2BF-00D93A302807}|Proyecto_Celsius_Farenheit\\Proyecto_Celsius_Farenheit.csproj|c:\\users\\15ago\\documents\\ed-cesarortiz\\unidad-1\\fundamentos_de_programacion\\proyecto_celsius_farenheit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87ACE9A-EE83-480A-A2BF-00D93A302807}|Proyecto_Celsius_Farenheit\\Proyecto_Celsius_Farenheit.csproj|solutionrelative:proyecto_celsius_farenheit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\15ago\\Documents\\ED-CesarOrtiz\\Unidad-1\\Fundamentos_de_programacion\\Proyecto_Clase_Coche\\Libro.cs",
+              "RelativeDocumentMoniker": "Proyecto_Clase_Coche\\Libro.cs",
+              "ToolTip": "C:\\Users\\15ago\\Documents\\ED-CesarOrtiz\\Unidad-1\\Fundamentos_de_programacion\\Proyecto_Clase_Coche\\Libro.cs",
+              "RelativeToolTip": "Proyecto_Clase_Coche\\Libro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T03:27:29.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\15ago\\Documents\\ED-CesarOrtiz\\Unidad-1\\Fundamentos_de_programacion\\Proyecto_Clase_Coche\\Program.cs",
+              "RelativeDocumentMoniker": "Proyecto_Clase_Coche\\Program.cs",
+              "ToolTip": "C:\\Users\\15ago\\Documents\\ED-CesarOrtiz\\Unidad-1\\Fundamentos_de_programacion\\Proyecto_Clase_Coche\\Program.cs",
+              "RelativeToolTip": "Proyecto_Clase_Coche\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T03:26:59.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Proyecto_Clase_Coche",
+              "DocumentMoniker": "C:\\Users\\15ago\\Documents\\ED-CesarOrtiz\\Unidad-1\\Fundamentos_de_programacion\\Proyecto_Clase_Coche\\Proyecto_Clase_Coche.csproj",
+              "RelativeDocumentMoniker": "Proyecto_Clase_Coche\\Proyecto_Clase_Coche.csproj",
+              "ToolTip": "C:\\Users\\15ago\\Documents\\ED-CesarOrtiz\\Unidad-1\\Fundamentos_de_programacion\\Proyecto_Clase_Coche\\Proyecto_Clase_Coche.csproj",
+              "RelativeToolTip": "Proyecto_Clase_Coche\\Proyecto_Clase_Coche.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-05T03:26:30.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Coche.cs",
+              "DocumentMoniker": "C:\\Users\\15ago\\Documents\\ED-CesarOrtiz\\Unidad-1\\Fundamentos_de_programacion\\Proyecto_Libro\\Coche.cs",
+              "RelativeDocumentMoniker": "Proyecto_Libro\\Coche.cs",
+              "ToolTip": "C:\\Users\\15ago\\Documents\\ED-CesarOrtiz\\Unidad-1\\Fundamentos_de_programacion\\Proyecto_Libro\\Coche.cs",
+              "RelativeToolTip": "Proyecto_Libro\\Coche.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T03:13:16.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\15ago\\Documents\\ED-CesarOrtiz\\Unidad-1\\Fundamentos_de_programacion\\Proyecto_Libro\\Program.cs",
+              "RelativeDocumentMoniker": "Proyecto_Libro\\Program.cs",
+              "ToolTip": "C:\\Users\\15ago\\Documents\\ED-CesarOrtiz\\Unidad-1\\Fundamentos_de_programacion\\Proyecto_Libro\\Program.cs",
+              "RelativeToolTip": "Proyecto_Libro\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T03:12:04.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\15ago\\Documents\\ED-CesarOrtiz\\Unidad-1\\Fundamentos_de_programacion\\Proyecto_Promedio_Lista\\Program.cs",
+              "RelativeDocumentMoniker": "Proyecto_Promedio_Lista\\Program.cs",
+              "ToolTip": "C:\\Users\\15ago\\Documents\\ED-CesarOrtiz\\Unidad-1\\Fundamentos_de_programacion\\Proyecto_Promedio_Lista\\Program.cs",
+              "RelativeToolTip": "Proyecto_Promedio_Lista\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T22:18:05.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\15ago\\Documents\\ED-CesarOrtiz\\Unidad-1\\Fundamentos_de_programacion\\Proyecto_Calculadora\\Program.cs",
+              "RelativeDocumentMoniker": "Proyecto_Calculadora\\Program.cs",
+              "ToolTip": "C:\\Users\\15ago\\Documents\\ED-CesarOrtiz\\Unidad-1\\Fundamentos_de_programacion\\Proyecto_Calculadora\\Program.cs",
+              "RelativeToolTip": "Proyecto_Calculadora\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T21:52:13.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\15ago\\Documents\\ED-CesarOrtiz\\Unidad-1\\Fundamentos_de_programacion\\Proyecto_Devolver_Impar\\Program.cs",
+              "RelativeDocumentMoniker": "Proyecto_Devolver_Impar\\Program.cs",
+              "ToolTip": "C:\\Users\\15ago\\Documents\\ED-CesarOrtiz\\Unidad-1\\Fundamentos_de_programacion\\Proyecto_Devolver_Impar\\Program.cs",
+              "RelativeToolTip": "Proyecto_Devolver_Impar\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T03:50:47.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\15ago\\Documents\\ED-CesarOrtiz\\Unidad-1\\Fundamentos_de_programacion\\Proyecto_Numero_Primo\\Program.cs",
+              "RelativeDocumentMoniker": "Proyecto_Numero_Primo\\Program.cs",
+              "ToolTip": "C:\\Users\\15ago\\Documents\\ED-CesarOrtiz\\Unidad-1\\Fundamentos_de_programacion\\Proyecto_Numero_Primo\\Program.cs",
+              "RelativeToolTip": "Proyecto_Numero_Primo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T03:38:39.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\15ago\\Documents\\ED-CesarOrtiz\\Unidad-1\\Fundamentos_de_programacion\\Proyecto_Numero_Aleatorio\\Program.cs",
+              "RelativeDocumentMoniker": "Proyecto_Numero_Aleatorio\\Program.cs",
+              "ToolTip": "C:\\Users\\15ago\\Documents\\ED-CesarOrtiz\\Unidad-1\\Fundamentos_de_programacion\\Proyecto_Numero_Aleatorio\\Program.cs",
+              "RelativeToolTip": "Proyecto_Numero_Aleatorio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T03:24:13.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\15ago\\Documents\\ED-CesarOrtiz\\Unidad-1\\Fundamentos_de_programacion\\Proyecto_Area_Circulo\\Program.cs",
+              "RelativeDocumentMoniker": "Proyecto_Area_Circulo\\Program.cs",
+              "ToolTip": "C:\\Users\\15ago\\Documents\\ED-CesarOrtiz\\Unidad-1\\Fundamentos_de_programacion\\Proyecto_Area_Circulo\\Program.cs",
+              "RelativeToolTip": "Proyecto_Area_Circulo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T01:14:37.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\15ago\\Documents\\ED-CesarOrtiz\\Unidad-1\\Fundamentos_de_programacion\\Proyecto_Celsius_Farenheit\\Program.cs",
+              "RelativeDocumentMoniker": "Proyecto_Celsius_Farenheit\\Program.cs",
+              "ToolTip": "C:\\Users\\15ago\\Documents\\ED-CesarOrtiz\\Unidad-1\\Fundamentos_de_programacion\\Proyecto_Celsius_Farenheit\\Program.cs",
+              "RelativeToolTip": "Proyecto_Celsius_Farenheit\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T22:03:02.45Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
