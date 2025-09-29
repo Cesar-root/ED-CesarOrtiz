@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diagnostico 2", "Diagnostic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodos de Busqueda", "Metodos de Busqueda\Metodos de Busqueda.csproj", "{98EED333-7285-4D68-A4BB-586A5CDF4618}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica 1", "Practica 1\Practica 1.csproj", "{47171C21-9022-42B6-A5EB-48962063BB7D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,5 +80,9 @@ Global
 		{98EED333-7285-4D68-A4BB-586A5CDF4618}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98EED333-7285-4D68-A4BB-586A5CDF4618}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98EED333-7285-4D68-A4BB-586A5CDF4618}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47171C21-9022-42B6-A5EB-48962063BB7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47171C21-9022-42B6-A5EB-48962063BB7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47171C21-9022-42B6-A5EB-48962063BB7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47171C21-9022-42B6-A5EB-48962063BB7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
